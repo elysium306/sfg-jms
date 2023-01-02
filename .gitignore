@@ -48,6 +48,7 @@ local.properties
 
 # PDT-specific
 .buildpath
+target/
 
 ######################
 # Intellij
